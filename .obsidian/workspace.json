@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "9dc1d6c2301b66a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "47d3cd3aea9cd339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15d4931639096425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipes Ágeis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "425fc23a19e3cf82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aaffe3d09ec64f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a69c29e3ac78dab6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f11d881672770caf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9ae86ebb1721c20d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "325d073ff818c085",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e12d6c0705fcda99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a034d8688419a71",
+    "type": "split",
+    "children": [
+      {
+        "id": "922647cd9adbcdf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b022493dea1830f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9950a27ed8ba72fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0308cb9e43f93160",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9b32e4c81c6985e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "425fc23a19e3cf82",
+  "lastOpenFiles": [
+    "Equipes Ágeis.md",
+    "README.md",
+    "Organização de equipes ágeis; os papéis existentes em uma equipe.md",
+    "Engenharia de Software.md",
+    "Modelagem de Software.md",
+    "Engenharia de Sistemas.md",
+    "Teoria Geral dos Sistemas.md",
+    "Introdução à Modelagem de Software.md",
+    "Design Thinking.md",
+    "Mapa de Atores.md",
+    "Mapa de Empatia.md",
+    "Imagens/mapa-de-empatia-xplane.png",
+    "Imagens/mapa-de-empatia-minimalista.png",
+    "Imagens/mapa-de-atores-2.png",
+    "Imagens/mapa-de-atores.png",
+    "Imagens",
+    "Algoritmos e Estruturas de Dados 2.md",
+    "Introdução à Engenharia de Sistemas.md",
+    "Systems Thinking.md",
+    "SWEBOK - Capítulo 9.md"
+  ]
+}
