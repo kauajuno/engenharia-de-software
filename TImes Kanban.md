@@ -1,0 +1,4 @@
+# Times Kanban
+
+Kanban boards são ferramentas já bem conhecidas e disseminadas na Engenharia de Software, que são quadros divididos em colunas que marcam o estágio no qual alguma tarefa se situa. A ferramenta mais conhecida para kanban boards é o Trello. E times kanban usam dessa ferramenta como forma principal de gerenciar o ciclo de vida do software.
+Times kanban buscam limitar o WIP, acrônimo para Work In Progress que traduz para Trabalho em Progresso, que nessa teoria simboliza um gargalo que implica na demora para a conclusão das tarefas. A limitação do WIP geralmente se dá pela limitação da quantidade de tarefas que podem trafegar no kanban board por vez. Essa abordagem fomenta a multidisciplinaridade pois os membros da equipe deixam de estar focados somente em uma etapa do projeto e passam a acompanhá-lo como um todo.
